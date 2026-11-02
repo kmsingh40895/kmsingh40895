@@ -31,6 +31,7 @@ I am a Computer Science student passionate about **Software Development, Python,
 ### 📊 GitHub Stats
 
 ![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmsingh40895&show_icons=true&theme=radial)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmsingh40895&layout=compact&theme=radial)
 
 ---
